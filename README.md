@@ -1,8 +1,6 @@
 # 📌 Team Task Manager
 A Full-Stack Team Task Management System built using Node.js and SQLite that allows teams to manage projects, assign tasks, and collaborate efficiently with secure authentication.
 
-# live link : https://tranquil-luck-production-6a8e.up.railway.app/signup 
-
 # 🚀 Features
 🔐 User Authentication (JWT-based)
 
